@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMacro xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Macro>
+    <Pause>0</Pause>
+    <Position>0</Position>
+    <Name>Channel Change and CC</Name>
+    <MacroActions>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>0</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>ch+</Name>
+          <UID>sC+NLTnboEe/UMSTp16gDQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38277</ModulationFreq>
+          <Lengths>
+            <double>8.87925</double>
+            <double>4.477</double>
+            <double>0.55675</double>
+            <double>1.674</double>
+            <double>2.2645</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAwICAgMCAwICAgICAwIDAgICAwICAgICAwIDAn8ABAJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.6585</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>1</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>2</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>3</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>4</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>5</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>6</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>7</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>8</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>9</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>cc</Name>
+          <UID>MFOj8mKfEUmiGartWLAXIg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37735</ModulationFreq>
+          <Lengths>
+            <double>8.8285</double>
+            <double>4.4665</double>
+            <double>0.5505</double>
+            <double>1.6635</double>
+            <double>1.5405</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgQCAgIDAgICAgICAgICAgIDAgMCAgIDAgMCAgICAgICAgIEAgICAgICAgMCAwIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+    </MacroActions>
+  </Macro>
+  <Macro>
+    <Pause>0</Pause>
+    <Position>0</Position>
+    <Name>Channel Line Up (TC03)</Name>
+    <MacroActions>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>0</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>Guide</Name>
+          <UID>ApmioJIUdECjeC8Rtowmjg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38277</ModulationFreq>
+          <Lengths>
+            <double>8.8594999999999988</double>
+            <double>4.4730000000000008</double>
+            <double>0.55199999999999994</double>
+            <double>1.5405</double>
+            <double>1.664</double>
+            <double>8.7905</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIEAgMCBAICAgQCAgIEAgICAgICAgICAgIDAgQCAgIEAgICAgICAgQCBAICAgICAgIEAgQCBAICAgICAwIEAn8FBgJ/</SigData>
+          <NoRepeats>2</NoRepeats>
+          <IntraSigPause>39.589</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+    </MacroActions>
+  </Macro>
+  <Macro>
+    <Pause>0</Pause>
+    <Position>0</Position>
+    <Name>Channel Line Up (TC13)</Name>
+    <MacroActions>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>0</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>Guide</Name>
+          <UID>ApmioJIUdECjeC8Rtowmjg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38277</ModulationFreq>
+          <Lengths>
+            <double>8.8594999999999988</double>
+            <double>4.4730000000000008</double>
+            <double>0.55199999999999994</double>
+            <double>1.5405</double>
+            <double>1.664</double>
+            <double>8.7905</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIEAgMCBAICAgQCAgIEAgICAgICAgICAgIDAgQCAgIEAgICAgICAgQCBAICAgICAgIEAgQCBAICAgICAwIEAn8FBgJ/</SigData>
+          <NoRepeats>2</NoRepeats>
+          <IntraSigPause>39.589</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+    </MacroActions>
+  </Macro>
+  <Macro>
+    <Pause>0</Pause>
+    <Position>0</Position>
+    <Name>Channel Line Up (TC14)</Name>
+    <MacroActions>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>0</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>Guide</Name>
+          <UID>ApmioJIUdECjeC8Rtowmjg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38277</ModulationFreq>
+          <Lengths>
+            <double>8.8594999999999988</double>
+            <double>4.4730000000000008</double>
+            <double>0.55199999999999994</double>
+            <double>1.5405</double>
+            <double>1.664</double>
+            <double>8.7905</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIEAgMCBAICAgQCAgIEAgICAgICAgICAgIDAgQCAgIEAgICAgICAgQCBAICAgICAgIEAgQCBAICAgICAwIEAn8FBgJ/</SigData>
+          <NoRepeats>2</NoRepeats>
+          <IntraSigPause>39.589</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+    </MacroActions>
+  </Macro>
+  <Macro>
+    <Pause>0</Pause>
+    <Position>0</Position>
+    <Name>Closed Captioning (TC01)</Name>
+    <MacroActions>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>0</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>CoX</Name>
+          <UID>bWFP0KAJaU64v0ztfevgIQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>37558</ModulationFreq>
+          <Lengths>
+            <double>8.8695</double>
+            <double>4.4665</double>
+            <double>0.5495</double>
+            <double>1.667</double>
+            <double>1.5405</double>
+            <double>8.8055</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIEAgICAgICAgICAgIDAgMCAgIDAgICAgICAgMCAgIEAgICAgIDAgMCAwICAgMCAgIDAn8FBgJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>1</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>2</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>select</Name>
+          <UID>7TNkEyV9bkuMofxmwnmKvg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.785</double>
+            <double>4.4665</double>
+            <double>0.55099999999999993</double>
+            <double>1.6665</double>
+            <double>1.5399999999999998</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIEAgQCAwICAgMCAgIEAgICAgICAgICAgIEAgMCAgIDAgMCAwICAgICAgIDAgICAgICAgICAwIDAgMCAgIEAn8ABQJ/</SigData>
+          <NoRepeats>2</NoRepeats>
+          <IntraSigPause>39.59</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>3</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>4</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>right</Name>
+          <UID>M96bK1KmWkuYINGnO5tVuQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7715</double>
+            <double>4.4665</double>
+            <double>0.5525</double>
+            <double>1.6620000000000001</double>
+            <double>1.539</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCBAICAgQCAgIDAgICAgICAgICAgIDAgMCAgIEAgICAgIDAgICAgIEAgICAgIDAgMCAgIDAgMCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.59</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>5</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>select</Name>
+          <UID>7TNkEyV9bkuMofxmwnmKvg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.785</double>
+            <double>4.4665</double>
+            <double>0.55099999999999993</double>
+            <double>1.6665</double>
+            <double>1.5399999999999998</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIEAgQCAwICAgMCAgIEAgICAgICAgICAgIEAgMCAgIDAgMCAwICAgICAgIDAgICAgICAgICAwIDAgMCAgIEAn8ABQJ/</SigData>
+          <NoRepeats>2</NoRepeats>
+          <IntraSigPause>39.59</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>6</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>7</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>select</Name>
+          <UID>7TNkEyV9bkuMofxmwnmKvg==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.785</double>
+            <double>4.4665</double>
+            <double>0.55099999999999993</double>
+            <double>1.6665</double>
+            <double>1.5399999999999998</double>
+            <double>2.255</double>
+          </Lengths>
+          <SigData>AAECAwIEAgQCAwICAgMCAgIEAgICAgICAgICAgIEAgMCAgIDAgMCAwICAgICAgIDAgICAgICAgICAwIDAgMCAgIEAn8ABQJ/</SigData>
+          <NoRepeats>2</NoRepeats>
+          <IntraSigPause>39.59</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>8</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>5000</Pause>
+        <Position>9</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>10</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>11</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>12</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>13</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>5000</Pause>
+        <Position>14</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>5000</Pause>
+        <Position>15</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>up</Name>
+          <UID>0uMLtHo1FEGrYBQIiBEapw==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38277</ModulationFreq>
+          <Lengths>
+            <double>8.8229999999999986</double>
+            <double>4.471</double>
+            <double>0.5485000000000001</double>
+            <double>1.539</double>
+            <double>1.6655000000000002</double>
+            <double>2.2555</double>
+          </Lengths>
+          <SigData>AAECAwIEAgQCBAICAgQCAgIDAgICAgICAgICAgIEAgQCAgICAgMCBAICAgICAgIDAgICAwICAgICBAIDAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.5925</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>1000</Pause>
+        <Position>16</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>5000</Pause>
+        <Position>17</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>5000</Pause>
+        <Position>18</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+      <MacroAction xsi:type="SignalAction">
+        <Pause>5000</Pause>
+        <Position>19</Position>
+        <IROutputLocation xsi:type="RedRat3LocationInfo">
+          <Description>No desc</Description>
+          <Name>Red Rat Macon</Name>
+          <LastSeen>2015-03-27</LastSeen>
+          <RRType>RedRat3_II_USB</RRType>
+          <SerialNo>18321</SerialNo>
+        </IROutputLocation>
+        <DeviceName>URC-2220-R (DTA remote)</DeviceName>
+        <Signal xsi:type="RedRat3ModulatedSignal">
+          <Name>down</Name>
+          <UID>6uWsjJq4h0ipGv2YehmEpQ==</UID>
+          <PauseRepeatMode>ConstantGap</PauseRepeatMode>
+          <RepeatPause>0</RepeatPause>
+          <ModulationFreq>38095</ModulationFreq>
+          <Lengths>
+            <double>8.7815</double>
+            <double>4.471</double>
+            <double>0.554</double>
+            <double>1.6620000000000001</double>
+            <double>1.5405</double>
+            <double>2.249</double>
+          </Lengths>
+          <SigData>AAECAwIDAgMCAwICAgMCAgIDAgICAgICAgICAgIDAgMCAgICAgICAgIDAgICAgIDAgICAwIDAgMCAgIEAgQCAgIDAn8ABQJ/</SigData>
+          <NoRepeats>1</NoRepeats>
+          <IntraSigPause>39.588</IntraSigPause>
+          <ToggleData />
+        </Signal>
+      </MacroAction>
+    </MacroActions>
+  </Macro>
+</ArrayOfMacro>
